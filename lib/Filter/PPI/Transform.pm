@@ -3,7 +3,7 @@ package Filter::PPI::Transform;
 use strict;
 use warnings;
 
-our $VERSION = 'v0.0.1'; # VERSION
+our $VERSION = 'v0.0.2'; # VERSION
 
 use Filter::Simple;
 use Carp;
